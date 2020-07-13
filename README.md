@@ -1,4 +1,4 @@
-![Profile Cover](https://source.unsplash.com/1600x900/?space,universe,nasa,astro,astronaut,cosmos,stars,planets,galaxy,spacex,rocket)
+![Profile Cover](https://source.unsplash.com/1920x1080/?space,universe,nasa,astro,astronaut,cosmos,stars,planets,galaxy,spacex,rocket)
 <!--
 **HarshitDoshi/HarshitDoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
