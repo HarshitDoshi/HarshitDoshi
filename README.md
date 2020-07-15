@@ -1,4 +1,6 @@
-![cover](https://github.com/HarshitDoshi/HarshitDoshi/blob/master/cover.jpg)
+# What do I do? This.
+
+![What do I do? This.](https://thecodinglove.com/when-i-realize-that-my-bug-is-due-to-a-missing-semicolon)
 <!--
 **HarshitDoshi/HarshitDoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
