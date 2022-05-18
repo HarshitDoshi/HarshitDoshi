@@ -7,11 +7,13 @@
   </a>
 </p>
 
+<!--
 <p align="center">
   <a align="center" href="https://github.com/HarshitDoshi">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=HarshitDoshi&show_icons=true&theme=solarized-dark&border_radius=0&count_private=true&include_all_commits=true" />
   </a>
 </p>
+-->
 
 <!--
 
